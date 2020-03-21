@@ -5,6 +5,6 @@ class Emp {
   }
 
   addName() {
-
+    console.log("Here is my name");
   }
 }

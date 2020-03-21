@@ -6,4 +6,9 @@ body {
 
 div {
   color: red;
+  margin: 0
+}
+
+span {
+  display: inline;
 }

@@ -3,4 +3,8 @@ class Emp {
   constructor(name: string) {
     this.name = name;
   }
+
+  addName() {
+
+  }
 }
